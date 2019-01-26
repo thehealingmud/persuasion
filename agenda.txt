@@ -1,3 +1,4 @@
 Track existing setups
+	maintain detailed logs
 maintain history
 report
