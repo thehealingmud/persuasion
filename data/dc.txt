@@ -1,0 +1,11 @@
+# DCR's data
+balconyList:
+	balcony:
+		location:living room
+		light:medium
+		potlist:
+			pot:
+				type:zz
+			pot:
+				type:peace lily
+			
