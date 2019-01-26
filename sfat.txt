@@ -1,0 +1,11 @@
+pots:
+  roots:
+  fruits:
+  leaves:
+  emptyList:
+    empty:
+      previous:
+      planned:
+harvest:
+  date:
+  plant:
