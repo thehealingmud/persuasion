@@ -1,1 +1,12 @@
 # SFat's data
+balconyList:
+	balcony:
+		location:living room
+		light:full
+		potlist:
+			pot:
+				type:petunia
+			pot:
+				type:climber flower
+      pot:
+        type:areca palm
