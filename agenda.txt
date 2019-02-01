@@ -3,3 +3,4 @@ Track existing setups
 maintain history
 report
 	report on setup
+	export and mail?
