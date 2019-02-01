@@ -8,4 +8,12 @@ balconyList:
 				type:zz
 			pot:
 				type:peace lily
+	balcony:
+		location:bedroom
+		light:medium
+		potlist:
+			pot:
+				type:okra
+			pot:
+				type:spinach
 			
