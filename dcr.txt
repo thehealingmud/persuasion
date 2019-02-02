@@ -7,5 +7,5 @@ pots:
       previous:
       planned:
 harvest:
-  date: 2/2/2019
+  date: 2/3/2019
   plant:
