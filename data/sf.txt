@@ -2,7 +2,7 @@
 balconyList:
 	balcony:
 		location:living room
-		light:full
+		light:medium
 		potlist:
 			pot:
 				type:petunia
@@ -10,3 +10,16 @@ balconyList:
 				type:climber flower
       pot:
         type:areca palm
+  balcony:
+			location:bedroom
+			light:full
+			potlist:
+				pot:
+					type:spinach
+				pot:
+					type:methi
+	      pot:
+          type:tomato
+	      pot:
+          type:beans
+
